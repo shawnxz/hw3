@@ -42,6 +42,7 @@ Usage:
 
 ```bash
 ./scripts/blkDesigns.sh
+./scripts/blk50p.sh
 ```
 
 The comparison result is saved in `./results/Part III/effCompare.txt`.
